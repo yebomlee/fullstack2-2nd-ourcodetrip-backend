@@ -1,13 +1,15 @@
 ![ourcodetrip](https://user-images.githubusercontent.com/61101022/139016869-025a4716-8c98-4dac-8be9-512d9d8fd651.png)
 
-# OurCodeTrip ✈️
+# OurCodeTrip ✈
+### **진짜 나다운 여행! 지금 당장 떠나보세요!**<br>
+**'아워 코드 트립'은 여행 예약을 위한 웹 어플리케이션입니다.**
 
 ## :white_check_mark: 프로젝트 개요
 
-[마이리얼트립](https://www.myrealtrip.com/)의 UI와 기능을 학습 용도로 클론하여, 화면 구현 및 기능(API)과 데이터베이스를 직접 기획하고 구현한 프로젝트입니다.
+[마이리얼트립](https://www.myrealtrip.com/)의 UI와 기능을 학습 용도로 참조하여, **화면 구현 및 기능(API)과 데이터베이스를 직접 기획하고 구현**한 프로젝트입니다.
 
-- 기간 : 2021.10.25 ~ 2021.11.05
-- [프론트엔드 Gitub Repository](https://github.com/wecode-bootcamp-korea/fullstack2-2nd-ourcodetrip-frontend)
+- **기간 : 2021. 10. 25 ~ 2021. 11. 05**
+- [프론트엔드 Github Repository](https://github.com/wecode-bootcamp-korea/fullstack2-2nd-ourcodetrip-frontend)
 - [백엔드 Github Repository](https://github.com/wecode-bootcamp-korea/fullstack2-2nd-ourcodetrip-backend)
 
 ## :white_check_mark: 사용 기술 및 개발 환경
@@ -57,15 +59,22 @@
 
 ## ✅ Features
 
-### 카테고리 관련
+### 카테고리 관련 API
 
 - 아워코드트립에서 제공하는 카테고리 조회 기능 (각 분류별 조회 구현)
-  - 서비스(항공권, 숙소, 투어 & 티켓 등) -> 메인 카테고리 -> 서브 카테고리
+  - 서비스 카테고리 (항공권, 숙소, 투어 & 티켓 등)
+  - 메인 카테고리
+  - 서브 카테고리
 
-### 상품 관련
+### 상품 관련 API
 
-- 상품의 상세 정보를 전달하는 기능
+- 투어 상품의 상세 정보를 조회, 전달하는 기능
+- 티켓 상품의 상세 정보를 조회, 전달하는 기능
 
 ## ✅ DB ERD
 
 <img src="https://user-images.githubusercontent.com/88504900/140657355-f49ad0a3-1e61-46a6-97c2-1ae2edff7895.png" width="100%" alt="OurCodeTrip-erd"></img>
+
+## ✅ Reference
+- 이 프로젝트는 [마이리얼트립](https://www.myrealtrip.com/)웹 어플리케이션을 참조하여 학습목적으로 만들었습니다. 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
+- 이 프로젝트에서 사용하고 있는 사진과 동영상은 Unsplash에서 공유받은 Free 이미지 및 동영상이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
